@@ -1,0 +1,3 @@
+@echo off
+echo Running Maven Wrapper...
+call mvnw.cmd clean install
